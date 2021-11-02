@@ -1,0 +1,10 @@
+node_modules/
+package-lock.json
+package.json
+
+# Or if this doesn't work, run "echo node_modules >> .gitignore"
+
+# How to remove node_modules from your repo after adding it to .gitignore
+# git rm -r --cached node_modules
+# git commit -m 'Remove node_modules'
+# git push origin master
