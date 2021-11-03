@@ -1,6 +1,5 @@
 node_modules/
 package-lock.json
-package.json
 
 # Or if this doesn't work, run "echo node_modules >> .gitignore"
 
